@@ -1,0 +1,26 @@
+## 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shang-QT&langs_count=15&size_weight=0.5&count_weight=0.5&layout=pie&theme=merko)](https://github.com/Shang-QT/github-readme-stats)## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Shang-QT/Shang-QT/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Shang-QT/Shang-QT/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph"
+         src="https://raw.githubusercontent.com/Shang-QT/Shang-QT/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+<!--
+**Shang-QT/Shang-QT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
